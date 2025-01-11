@@ -1,9 +1,9 @@
 # CCNA Study Notes 📚
 
-이 저장소는 CCNA 자격증을 준비하기 위한 학습 자료를 정리한 공간입니다.
+내가 공부한 CCNA 공부 자료 공간 
 
 ## 📁 폴더 구성
-```plaintext
+
 CCNA_Study_Notes/
 ├── OSI 7 Layer 
 │    ├── 1 Layer (Physical Layer)
