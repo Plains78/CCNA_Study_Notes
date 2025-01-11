@@ -1,21 +1,21 @@
 # CCNA Study Notes 📚
 
-내가 공부한 CCNA 공부 자료 공간 
+CCNA 공부 자료 폴더 
 
 ## 📁 폴더 구성
-
+```text
 CCNA_Study_Notes/
-├── OSI 7 Layer 
-│    ├── 1 Layer (Physical Layer)
-│    ├── 2 Layer (Data Link Layer)
-│    ├── 3 Layer (Network Layer)
-│    ├── 4 Layer (Transport Layer)
-│    ├── 5 Layer (Session Layer)
-│    ├── 6 Layer (Presentation Layer)
-│    ├── 7 Layer (Application Layer)
+├── OSI_7_Layer
+│    ├── 1_Layer_Physical.md
+│    ├── 2_Layer_Data_Link.md
+│    ├── 3_Layer_Network.md
+│    ├── 4_Layer_Transport.md
+│    ├── 5_Layer_Session.md
+│    ├── 6_Layer_Presentation.md
+│    ├── 7_Layer_Application.md
 │    └── README.md
 ├── Cabling
-│    ├── vlan_se
+│    ├── vlan_se.md
 │    └── README.md
 ├── IPv4
 │    └── README.md
