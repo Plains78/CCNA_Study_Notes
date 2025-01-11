@@ -1,7 +1,7 @@
 # CCNA Study Notes 📚
 
 CCNA 공부 자료 폴더 
-
+OSI_7_Layer/README.md
 ## 📁 폴더 구성
 ```text
 CCNA_Study_Notes/
